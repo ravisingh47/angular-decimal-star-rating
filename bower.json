@@ -1,0 +1,20 @@
+{
+  "name": "angular-decimal-star-rating",
+  "description": "An simple npm module for ratings in decimal point scale",
+  "main": "index.js",
+  "authors": [
+    "ravisingh47 <singhravicse@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ravisingh47/angular-decimal-star-rating",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}
