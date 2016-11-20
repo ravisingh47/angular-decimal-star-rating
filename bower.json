@@ -2,6 +2,13 @@
   "name": "angular-decimal-star-rating",
   "description": "An simple npm module for ratings in decimal point scale",
   "main": "src/angular-decimal-star-rating.js",
+  "keywords": [
+    "angularjs",
+    "directive",
+    "decimal",
+    "stars",
+    "rating"
+  ],
   "authors": [
     "ravisingh47 <singhravicse@gmail.com>"
   ],
